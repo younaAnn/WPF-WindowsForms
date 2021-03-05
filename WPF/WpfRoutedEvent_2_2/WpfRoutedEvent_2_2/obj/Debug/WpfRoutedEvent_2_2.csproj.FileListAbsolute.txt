@@ -1,0 +1,14 @@
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\bin\Debug\WpfRoutedEvent_2_2.exe.config
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\bin\Debug\WpfRoutedEvent_2_2.exe
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\bin\Debug\WpfRoutedEvent_2_2.pdb
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\MainWindow.g.cs
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\App.g.cs
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2_MarkupCompile.cache
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2_MarkupCompile.lref
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\MainWindow.baml
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.g.resources
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.Properties.Resources.resources
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.csproj.GenerateResource.cache
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.csproj.CoreCompileInputs.cache
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.exe
+E:\University\WPF\WpfRoutedEvent_2_2\WpfRoutedEvent_2_2\obj\Debug\WpfRoutedEvent_2_2.pdb

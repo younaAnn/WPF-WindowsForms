@@ -1,0 +1,15 @@
+E:\University\WPF\NCommand\NCommand\bin\Debug\NCommand.exe.config
+E:\University\WPF\NCommand\NCommand\bin\Debug\NCommand.exe
+E:\University\WPF\NCommand\NCommand\bin\Debug\NCommand.pdb
+E:\University\WPF\NCommand\NCommand\obj\Debug\MainWindow.g.cs
+E:\University\WPF\NCommand\NCommand\obj\Debug\App.g.cs
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand_MarkupCompile.cache
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand_MarkupCompile.lref
+E:\University\WPF\NCommand\NCommand\obj\Debug\MainWindow.baml
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand.g.resources
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand.Properties.Resources.resources
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand.csproj.GenerateResource.cache
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand.csproj.CoreCompileInputs.cache
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand.exe
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand.pdb
+E:\University\WPF\NCommand\NCommand\obj\Debug\NCommand.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+E:\University\WPF\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.exe.config
+E:\University\WPF\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.exe
+E:\University\WPF\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.pdb
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\MainWindow.g.cs
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\App.g.cs
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo_MarkupCompile.cache
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo_MarkupCompile.lref
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\MainWindow.baml
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.g.resources
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.Properties.Resources.resources
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.csproj.GenerateResource.cache
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.csproj.CoreCompileInputs.cache
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.exe
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.pdb
+E:\University\WPF\DataBindingDemo\DataBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs

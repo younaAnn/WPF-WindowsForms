@@ -1,0 +1,11 @@
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+E:\University\Osipov\ADO-NET\CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb

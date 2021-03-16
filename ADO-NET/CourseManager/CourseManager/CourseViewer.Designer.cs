@@ -32,6 +32,7 @@ namespace CourseManager
             this.departmentList = new System.Windows.Forms.ComboBox();
             this.closeForm = new System.Windows.Forms.Button();
             this.courseGridView = new System.Windows.Forms.DataGridView();
+            this.viewOffices = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.courseGridView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,11 +63,22 @@ namespace CourseManager
             this.courseGridView.Size = new System.Drawing.Size(623, 244);
             this.courseGridView.TabIndex = 2;
             // 
+            // viewOffices
+            // 
+            this.viewOffices.Location = new System.Drawing.Point(12, 394);
+            this.viewOffices.Name = "viewOffices";
+            this.viewOffices.Size = new System.Drawing.Size(104, 23);
+            this.viewOffices.TabIndex = 3;
+            this.viewOffices.Text = "View Offices";
+            this.viewOffices.UseVisualStyleBackColor = true;
+            this.viewOffices.Click += new System.EventHandler(this.viewOffices_Click_1);
+            // 
             // CourseViewer
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.viewOffices);
             this.Controls.Add(this.courseGridView);
             this.Controls.Add(this.closeForm);
             this.Controls.Add(this.departmentList);
@@ -83,6 +95,7 @@ namespace CourseManager
         private System.Windows.Forms.ComboBox departmentList;
         private System.Windows.Forms.Button closeForm;
         private System.Windows.Forms.DataGridView courseGridView;
+        private System.Windows.Forms.Button viewOffices;
     }
 }
 

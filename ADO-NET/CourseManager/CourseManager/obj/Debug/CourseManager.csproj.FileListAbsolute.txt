@@ -14,3 +14,4 @@ E:\University\Osipov\ADO-NET\CourseManager\CourseManager\bin\Debug\ru\EntityFram
 E:\University\Osipov\ADO-NET\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
 E:\University\Osipov\ADO-NET\CourseManager\CourseManager\obj\Debug\CourseManager.exe
 E:\University\Osipov\ADO-NET\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+E:\University\Osipov\ADO-NET\CourseManager\CourseManager\obj\Debug\CourseManager.OfficeAssignment.resources

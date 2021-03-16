@@ -63,5 +63,11 @@ courseGridView.AutoResizeColumns(DataGridViewAutoSizeColumnsMode.AllCells);
                 MessageBox.Show(ex.Message);
             }
         }
+
+        private void viewOffices_Click_1(object sender, EventArgs e)
+        {
+            OfficeAssignment officeForm = new OfficeAssignment();
+            officeForm.Visible = true;
+        }
     }
 }
